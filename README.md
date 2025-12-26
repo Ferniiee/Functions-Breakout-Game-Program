@@ -1,7 +1,7 @@
 # Functions-Breakout-Game
 
 ## Description
-C# game program where user has to click the correct white sqaures make all the boxes the color red.
+C# game program where user has to click the correct white squares make all the boxes the color red.
 
 ## Technologies Used
 - C#
